@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Mapa_de_Clases\Mapa de Clases\bin\Debug\net8.0\Mapa de Clases.exe
+C:\Users\HP\source\repos\Mapa_de_Clases\Mapa de Clases\bin\Debug\net8.0\Mapa de Clases.deps.json
+C:\Users\HP\source\repos\Mapa_de_Clases\Mapa de Clases\bin\Debug\net8.0\Mapa de Clases.runtimeconfig.json
+C:\Users\HP\source\repos\Mapa_de_Clases\Mapa de Clases\bin\Debug\net8.0\Mapa de Clases.dll
+C:\Users\HP\source\repos\Mapa_de_Clases\Mapa de Clases\bin\Debug\net8.0\Mapa de Clases.pdb
+C:\Users\HP\source\repos\Mapa_de_Clases\Mapa de Clases\obj\Debug\net8.0\Mapa de Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Mapa_de_Clases\Mapa de Clases\obj\Debug\net8.0\Mapa de Clases.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Mapa_de_Clases\Mapa de Clases\obj\Debug\net8.0\Mapa de Clases.AssemblyInfo.cs
+C:\Users\HP\source\repos\Mapa_de_Clases\Mapa de Clases\obj\Debug\net8.0\Mapa de Clases.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Mapa_de_Clases\Mapa de Clases\obj\Debug\net8.0\Mapa de Clases.dll
+C:\Users\HP\source\repos\Mapa_de_Clases\Mapa de Clases\obj\Debug\net8.0\refint\Mapa de Clases.dll
+C:\Users\HP\source\repos\Mapa_de_Clases\Mapa de Clases\obj\Debug\net8.0\Mapa de Clases.pdb
+C:\Users\HP\source\repos\Mapa_de_Clases\Mapa de Clases\obj\Debug\net8.0\Mapa de Clases.genruntimeconfig.cache
+C:\Users\HP\source\repos\Mapa_de_Clases\Mapa de Clases\obj\Debug\net8.0\ref\Mapa de Clases.dll
